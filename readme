@@ -1,0 +1,5 @@
+#instruction
+npm install
+#to start
+#go to the server folder
+npm start
